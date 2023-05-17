@@ -18,7 +18,7 @@ The only difference between OpenGL and DirectX Normal maps is the opposite green
 
 ## 下载 Download
 
-
+[下载 Download](https://github.com/Mario-Hero/FlipGreenChannelTool/releases/download/Main/FlipGreenChannelToolPack.exe)
 
 ## 依赖 Dependency
 
